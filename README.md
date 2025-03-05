@@ -4,7 +4,7 @@
 
 💡 Passionate about building scalable applications, financial data analysis, and cloud computing. Always eager to learn, explore new technologies, and contribute to open-source projects.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Therushmorare&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -21,7 +21,10 @@
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,flask,django,fastapi,postgresql,redis,react,flutter,bootstrap,tailwind,aws,gcp,github,jenkins,prometheus)](https://skillicons.dev)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com)  
+[![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)](https://snyk.io)  
+[![Langchain](https://img.shields.io/badge/LangChain-FFD700?style=for-the-badge)](https://www.langchain.com)
 
 ## 🌱 Currently Exploring
 
