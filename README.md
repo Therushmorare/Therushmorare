@@ -11,7 +11,7 @@
 - 🔭 I'm currently pursuing a qualification in Cost and Management Accounting.
 - 📝 I'm working for a startup as a tech-lead.
 - 🌐 I'm a proud Alumni member of ALX-SE.
-- ✍️ I'm also a consultant at Wyt Business Soutions.mus
+- ✍️ I'm also a consultant at Wyt Business Soutions.
 - 🎵 I make beats (more specifically hiphop beats)
 - 🖥️ I build gaming PCs
 - ࿋ I watch anime
