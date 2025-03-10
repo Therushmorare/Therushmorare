@@ -4,7 +4,7 @@
 
 💡 Passionate about building scalable applications, financial data analysis, and cloud computing. Always eager to learn, explore new technologies, and contribute to open-source projects.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Therushmorare&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Therushmorare&count_private=true&show_icons=true)
 
 ## 🚀 About Me
 
