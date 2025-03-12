@@ -21,7 +21,7 @@
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,flask,django,fastapi,postgresql,redis,react,flutter,bootstrap,tailwind,aws,gcp,github,jenkins,prometheus)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,flask,django,fastapi,postgresql,redis,react,flutter,bootstrap,tailwind,aws,gcp,github,jenkins,prometheus,bash,docker,gcp,githubactions,heroku,linux,mongodb,mysql,netlify,postman,sqlite)](https://skillicons.dev)
 [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com)  
 [![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)](https://snyk.io)  
 [![Langchain](https://img.shields.io/badge/LangChain-FFD700?style=for-the-badge)](https://www.langchain.com)
